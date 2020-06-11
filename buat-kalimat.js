@@ -39,3 +39,5 @@ console.log(
     "You can reach me on my email ", biodata.contact.email, " or my phone number ", biodata.contact.phone.countryCode, "-", biodata.contact.phone.number, ".",
     "Thank you and have a nice day."
     )
+
+// there is bug in line 39
